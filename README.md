@@ -23,5 +23,7 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 Cheers,
 
 Tim Brown (@timb_machine)
+
 Head Of Research
+
 Portcullis Computer Security Ltd

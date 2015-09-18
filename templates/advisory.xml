@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="advisory.xsl"?>
+<advisory version="3">
+        <meta>
+                <id>1337</id> 
+                <cve>CVE-NNNN-NNNN</cve>
+                <vendor>VENDOR</vendor>
+                <product>PRODUCT</product>
+                <affectedversion>10.1.1.1</affectedversion>
+                <fixedversion>10.1.1.2</fixedversion>
+                <title>REMOTE CODE EXECUTION</title> 
+                <reporter>TEAM MEMBER</reporter>
+        </meta>
+        <status>
+		<update><date>21/10/2014</date><comment>Advisory created</comment></update>
+                <update><date>28/10/2014</date><comment>Vendor contacted</comment></update>
+		<update><date>25/11/2014</date><comment>Vendor working on a fix</comment></update>
+                <update><date>03/12/2014</date><comment>Fix released</comment></update>
+                <update><date>03/12/2014</date><comment>Fix confirmed</comment></update>
+                <update><date>XX/XX/2014</date><comment>CVE obtained</comment></update>
+        </status>
+        <details>
+		<description>
+<p>blah blah blah blah....</p>
+		</description>
+		<impact>
+<p>This vulnerability allows....</p>
+		</impact>
+		<exploit>
+<p>The proof of concept exploit is available...</p>
+        	</exploit>
+		<remediation>
+<p>The vendor has released a patch:</p>
+<ul>
+	<li>http://vendorspatchserver/patch.tar.gz</li>
+</ul>
+	`	</remediation>
+	</details>
+</advisory>

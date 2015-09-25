@@ -12,7 +12,7 @@ Portcullis publish our advisories in two main forms, as text based summaries on 
 
 To do so we utilise a generic XML schema (advisory.xml) which we can generate from the issue management system along with a number of XSLT templates which ensure constant formatting. We have templates to support text, HTML and markdown based publishing. These files can be found in the templates directory.
 
-We are publishing these process in an attempt to support the community at a time where the whole question of disclosure is again being discussed. Further details of our take on the philosophical debate around disclosure can can found at:
+We are publishing this toolkit in an attempt to support the community at a time where the whole question of disclosure is again being discussed. Further details of our take on the philosophical debate around disclosure can found at:
 
 * https://www.portcullis-security.com/changes-to-the-portcullis-advisories-process/
 

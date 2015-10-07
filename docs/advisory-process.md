@@ -1,6 +1,6 @@
 # Purpose
 
-[ORGANISATION] follows a model of coordinated disclosure where we attempt to work with vendors to resolve any new vulnerabilities that we find. A flow diagram of the process can be found along with this document that gives a high-level view of this process and the people responsible for delivering it. In the event of any problems following this process, the normal management channels should be utilised for escalation.
+[ORGANISATION] follows a model of co-ordinated disclosure where we attempt to work with vendors to resolve any new vulnerabilities that we find. A flow diagram of the process can be found along with this document that gives a high-level view of this process and the people responsible for delivering it. In the event of any problems following this process, the normal management channels should be utilised for escalation.
 
 This process details how [ORGANISATION] manages the public reporting of security vulnerability information we researched to hardware and software vendors, our customers, and the public. This process intends to enable all parties to understand and address vulnerabilities expeditiously in their environment, minimising the risk that the vulnerability information may pose.
 
@@ -42,12 +42,13 @@ In order to initiate a dialogue with the vendor, the following steps to find a c
 * info@
 * admin@
 * sales@
+* psirt@
 
 The purpose of this first email will be to:
 
 * Confirm an appropriate vendor contact;
 * Establish whether the vendor wishes to use PGP;
-* Provide a link to the Coordinated Disclosure Policy ([COORDINATED DISCLOSURE POLICY URL]);
+* Provide a link to the Co-ordinated Disclosure Policy ([CO-ORDINATED DISCLOSURE POLICY URL]);
 * Give the vendor the details of the product and the version affected.
 
 It is not expected that this first email will be encrypted, however, reasonable attempts will be made to do so (for example if there has been previous contact with the vendor).

@@ -4,7 +4,7 @@ This project contains a generic copy of the resources used by Portcullis Compute
 
 For background, our advisory process is managed by a dedicated vendor liason team who utilise an issue management system to track all of the issues we find from identification through to disclosure.
 
-You can find further details about our processes the docs subdirectory. The Co-ordinated Disclosure Policy is intended for public consumption whilst the Advisory Process is expected to have a primarily internal audience.
+You can find further details about our processes in the docs subdirectory. The Co-ordinated Disclosure Policy is intended for public consumption whilst the Advisory Process is expected to have a primarily internal audience.
 
 Portcullis publish our advisories in two main forms, as text based summaries on mailing lists along with a full disclosure of the technical findings on our web site at:
 
